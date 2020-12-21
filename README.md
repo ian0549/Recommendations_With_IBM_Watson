@@ -2,11 +2,11 @@
 
 This project explores FIVE major aspects of recommendation engine:
 
-I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering/Content based
-IV. Matrix Factorization
-V. Extras & Concluding
+- Exploratory Data Analysis
+- Rank Based Recommendations
+- User-User Based Collaborative Filtering/Content based
+- Matrix Factorization
+- Extras & Concluding
 
 # Project Motivation
 
